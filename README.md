@@ -31,6 +31,8 @@ This repository contains a Power BI dashboard aimed at examining salesmen's targ
 
 <br />
 - Identification of key performance indicators (KPIs) for salesmen.
+
 <br />
+
 ![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/597f040a-58a8-475c-8eeb-6b48548f44cd)
 

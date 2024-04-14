@@ -11,7 +11,8 @@ This repository contains a Power BI dashboard aimed at examining salesmen's targ
 - Visual representation of targeted sales versus actual sales.
 <br />
 
-![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/b2e63554-5767-4bd2-8dae-923e737314e1)
+![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/31ff3cec-a6d1-4478-8df1-a9ed4643e23f)
+
 
 <br />
 - Quarterly breakdown of sales performance.

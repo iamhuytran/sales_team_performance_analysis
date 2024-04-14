@@ -36,5 +36,4 @@ This repository contains a Power BI dashboard aimed at examining salesmen's targ
 
 <br />
 
-![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/597f040a-58a8-475c-8eeb-6b48548f44cd)
-
+![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/d05e964e-7c2f-4ffd-930c-bff76483cf92)

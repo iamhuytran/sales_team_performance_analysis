@@ -3,7 +3,8 @@
 ## Overview
 This repository contains a Power BI dashboard aimed at examining salesmen's targeted sales versus actual sales across multiple quarters. The dashboard is designed to identify key performance indicators (KPIs) by providing dynamic filters to sort revenue by teams.
 <br />
-![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/1c34e492-956a-4a0d-9825-d79d00890252)
+![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/bada96a3-a612-4912-8be1-e544a2de5116)
+
 <br />
 
 ## Dashboard Features

@@ -20,11 +20,13 @@ This repository contains a Power BI dashboard aimed at examining salesmen's targ
 
 <br />
 - Dynamic filters for sorting revenue by teams.
+
 <br />
 
 ![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/92888011-7e64-430f-bdfa-e676e1bfde98)
 
 <br />
+
 ![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/30cfdf9d-ae61-4728-9e48-c59ac5ed12fd)
 
 <br />

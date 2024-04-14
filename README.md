@@ -8,17 +8,18 @@ This repository contains a Power BI dashboard aimed at examining salesmen's targ
 <br />
 
 ## Dashboard Features
-- Visual representation of targeted sales versus actual sales.
+- KPIs of actual sales versus targeted sale numbers as well as the YTD values underneath.
 <br />
 
 ![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/31ff3cec-a6d1-4478-8df1-a9ed4643e23f)
 
 
 <br />
-- Quarterly breakdown of sales performance.
+- Quarterly breakdown of sales performance with dynamic title that counts the amount time we have exceeded the monthly goals.
 <br />
 
-![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/9bb7dca1-ab35-4efa-99ac-153b110914d6)
+![image](https://github.com/iamhuytran/sales_team_performance_analysis/assets/102829980/f6efa404-d3bc-4e9c-8c4b-97586dd5758b)
+
 
 <br />
 - Dynamic filters for sorting revenue by teams.
